@@ -1438,31 +1438,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 48.26 160.655 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 5ad8cb42-884f-41e4-9796-6e6c35b880b4)
-    (property "Reference" "#PWR029" (at 48.26 164.465 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 48.26 156.21 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 48.26 160.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 48.26 160.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a72a3a8c-0327-442b-b880-9ffd113deb39))
-    (instances
-      (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
-          (reference "#PWR029") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+5V") (at 118.11 22.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6243b51a-cea6-4265-bc61-df3a674adc19)
@@ -1643,6 +1618,31 @@
     )
   )
 
+  (symbol (lib_id "power:+3V3") (at 48.26 160.655 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 742a874f-cbfa-42b1-822c-bdce352c7255)
+    (property "Reference" "#PWR029" (at 48.26 164.465 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 48.26 156.21 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 48.26 160.655 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 48.26 160.655 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 04cc266e-713b-4417-80da-2f9968210b3c))
+    (instances
+      (project "speedomobile"
+        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
+          (reference "#PWR029") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GNDPWR") (at 156.845 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77de98a1-98e4-42cb-8f8a-6187219d4b5a)
@@ -1666,31 +1666,6 @@
         )
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
           (reference "#PWR034") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+5V") (at 66.04 153.67 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 781cbd82-6a84-4738-b46d-6e01f9d3035d)
-    (property "Reference" "#PWR032" (at 66.04 157.48 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 66.04 148.59 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 66.04 153.67 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 66.04 153.67 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 71cfbb42-8694-4e4d-85ff-dbb2ca3a98bc))
-    (instances
-      (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
-          (reference "#PWR032") (unit 1)
         )
       )
     )
@@ -1956,6 +1931,31 @@
       (project "speedomobile"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
           (reference "R1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 66.04 153.67 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d8cb4086-b3c6-4d68-b972-a9a3c7a1297c)
+    (property "Reference" "#PWR032" (at 66.04 157.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 66.04 149.225 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 66.04 153.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 66.04 153.67 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 95ecfee7-cd76-4a09-8b08-8fd373c1aef4))
+    (instances
+      (project "speedomobile"
+        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/b42eefb6-cfe9-4ab9-9135-cec9245263a5/5f6994f2-6ebc-4b96-a957-b36a33b2dc9e"
+          (reference "#PWR032") (unit 1)
         )
       )
     )
