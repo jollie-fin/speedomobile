@@ -261,7 +261,7 @@
   (symbol (lib_id "power:GND") (at 200.66 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1dcd3978-db7f-4236-a376-4f516e0ae24b)
-    (property "Reference" "#PWR?" (at 200.66 111.76 0)
+    (property "Reference" "#PWR0114" (at 200.66 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 200.66 110.49 0)
@@ -276,9 +276,6 @@
     (pin "1" (uuid ae058751-5001-49f2-a764-8a968da79304))
     (instances
       (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/f11e76c2-c975-435e-b3f1-8c0be3fa1a36"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "#PWR0114") (unit 1)
         )
@@ -289,7 +286,7 @@
   (symbol (lib_id "Device:C") (at 200.66 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23932f80-0ec7-4eea-af46-29af2ae55552)
-    (property "Reference" "C12" (at 204.47 100.33 0)
+    (property "Reference" "C25" (at 204.47 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22u" (at 204.47 102.87 0)
@@ -317,9 +314,6 @@
     (pin "1" (uuid 62c789ec-0d7f-45c9-a04e-904950109d69))
     (instances
       (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/f11e76c2-c975-435e-b3f1-8c0be3fa1a36"
-          (reference "C12") (unit 1)
-        )
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "C25") (unit 1)
         )
@@ -358,7 +352,7 @@
   (symbol (lib_id "power:+3V3") (at 200.66 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d0443c3-4edc-4c14-884c-db913cb2c779)
-    (property "Reference" "#PWR?" (at 200.66 101.6 0)
+    (property "Reference" "#PWR0113" (at 200.66 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 200.66 92.71 0)
@@ -373,9 +367,6 @@
     (pin "1" (uuid 53ee4e95-7036-49f8-b424-afb33182bc8b))
     (instances
       (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/f11e76c2-c975-435e-b3f1-8c0be3fa1a36"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "#PWR0113") (unit 1)
         )
@@ -386,7 +377,7 @@
   (symbol (lib_id "Device:C") (at 213.36 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4aa1c1ae-b6e5-4723-a0d5-f579e5d71464)
-    (property "Reference" "C?" (at 217.17 100.33 0)
+    (property "Reference" "C18" (at 217.17 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 217.17 102.87 0)
@@ -411,9 +402,6 @@
     (pin "1" (uuid 98868122-00e5-4fe2-b4b3-43bb927740cb))
     (instances
       (project "speedomobile"
-        (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/f11e76c2-c975-435e-b3f1-8c0be3fa1a36"
-          (reference "C?") (unit 1)
-        )
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "C18") (unit 1)
         )
