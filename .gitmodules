@@ -1,0 +1,12 @@
+[submodule "firmware/pico-sdk"]
+	path = firmware/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk
+[submodule "firmware/PN532"]
+	path = firmware/PN532
+	url = https://github.com/Seeed-Studio/PN532.git
+[submodule "firmware/hd44780"]
+	path = firmware/hd44780
+	url = https://github.com/duinoWitchery/hd44780
+[submodule "firmware/SparkFun_LSM9DS1_Arduino_Library"]
+	path = firmware/SparkFun_LSM9DS1_Arduino_Library
+	url = https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library
