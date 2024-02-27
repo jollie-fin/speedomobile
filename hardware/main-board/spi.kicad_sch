@@ -275,7 +275,7 @@
     )
     (pin "1" (uuid ae058751-5001-49f2-a764-8a968da79304))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "#PWR0114") (unit 1)
         )
@@ -313,7 +313,7 @@
     (pin "2" (uuid b5da0c51-3430-4576-9457-37972b071140))
     (pin "1" (uuid 62c789ec-0d7f-45c9-a04e-904950109d69))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "C25") (unit 1)
         )
@@ -338,7 +338,7 @@
     )
     (pin "1" (uuid 1a19fd0c-3b80-4728-a31b-93db34adc106))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "#PWR?") (unit 1)
         )
@@ -366,7 +366,7 @@
     )
     (pin "1" (uuid 53ee4e95-7036-49f8-b424-afb33182bc8b))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "#PWR0113") (unit 1)
         )
@@ -401,7 +401,7 @@
     (pin "2" (uuid 25ed71f4-e520-4db2-9900-a5d81ef7c657))
     (pin "1" (uuid 98868122-00e5-4fe2-b4b3-43bb927740cb))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "C18") (unit 1)
         )
@@ -426,7 +426,7 @@
     )
     (pin "1" (uuid 66c6798f-404f-43f5-ac42-ec552d84b4c8))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/51c364bc-8dcb-4f10-88b1-180da7ba62ce"
           (reference "#PWR0111") (unit 1)
         )
@@ -462,7 +462,7 @@
     (pin "6" (uuid 4bb6964a-f31d-4f69-95af-66e0dc87a6b2))
     (pin "7" (uuid ef60ea25-2b7d-4efa-9701-96d5afda3c21))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "J?") (unit 1)
         )

@@ -941,7 +941,7 @@
     (pin "2" (uuid 3b18c5ef-7545-4aaa-9ca7-37fcc79fa48b))
     (pin "1" (uuid 239afdd6-b203-4cce-85bd-fdb0d8df2793))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "R?") (unit 1)
         )
@@ -969,7 +969,7 @@
     )
     (pin "1" (uuid 2b5a131e-e697-4e42-b1e8-ae9725ba82c7))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#PWR044") (unit 1)
         )
@@ -994,7 +994,7 @@
     )
     (pin "1" (uuid 5d7edafd-8047-442a-8b77-2ee80d2c44d6))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#PWR043") (unit 1)
         )
@@ -1019,7 +1019,7 @@
     )
     (pin "1" (uuid ce23c586-aee5-4805-af19-ec8a4d48bde2))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#FLG01") (unit 1)
         )
@@ -1055,7 +1055,7 @@
     (pin "3" (uuid 0253087f-69a1-4d03-8e27-81b0023176cb))
     (pin "2" (uuid 90e25579-5432-40af-b0be-2c3918060074))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "J28") (unit 1)
         )
@@ -1104,7 +1104,7 @@
     (pin "2" (uuid df4ec4be-7f1d-4da4-a5aa-c44a2b0e8280))
     (pin "3" (uuid 07a45d70-c0de-4af5-b6df-67887b53d287))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "U4") (unit 1)
         )
@@ -1129,7 +1129,7 @@
     )
     (pin "1" (uuid 248cf27a-ab08-41ce-85e9-dbfd60521943))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#PWR045") (unit 1)
         )
@@ -1161,7 +1161,7 @@
     (pin "2" (uuid 28206aef-749a-4b1d-8c5d-0d337ae5e810))
     (pin "1" (uuid 9c80bac4-261e-4091-be0d-7a526f8103da))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "J27") (unit 1)
         )
@@ -1202,7 +1202,7 @@
     (pin "7" (uuid f27fbbc1-7bc5-43f6-9c94-446272876781))
     (pin "6" (uuid 675e1084-b5dd-4124-89cc-e8d01de4389f))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "Q?") (unit 1)
         )
@@ -1230,7 +1230,7 @@
     )
     (pin "1" (uuid 549437de-0c98-49c0-9f0c-dfe313b5af91))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "#PWR?") (unit 1)
         )
@@ -1258,7 +1258,7 @@
     )
     (pin "1" (uuid 9d1de38b-beb7-4b36-9512-ca1bf88b5d99))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#PWR046") (unit 1)
         )
@@ -1283,7 +1283,7 @@
     )
     (pin "1" (uuid bc7bc54d-39d4-4722-9aff-5fa30302e529))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c/fbd52d14-a80a-41ea-b1a6-b0b15a30957a"
           (reference "#PWR047") (unit 1)
         )
@@ -1308,7 +1308,7 @@
     )
     (pin "1" (uuid e814bf69-5bf3-4df4-a8a4-bb614869f026))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "#PWR?") (unit 1)
         )
@@ -1346,7 +1346,7 @@
     (pin "2" (uuid 339b2e49-7d68-4ab8-b36c-a7575682690b))
     (pin "1" (uuid 32f8805b-a902-48ae-8c1d-2e6cdea7d022))
     (instances
-      (project "speedomobile"
+      (project "main-board"
         (path "/33f5bcad-68ad-4ea6-9034-cdbd4086270c"
           (reference "R?") (unit 1)
         )
