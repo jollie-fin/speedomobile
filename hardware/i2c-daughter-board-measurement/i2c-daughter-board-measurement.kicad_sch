@@ -683,7 +683,7 @@
     )
     (pin "1" (uuid 96bbc21c-3f97-4f9b-a885-c6b08ca1fd55))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "H1") (unit 1)
         )
@@ -708,7 +708,7 @@
     )
     (pin "1" (uuid c2a15b49-869d-44f0-bec0-1fc1f2d3097f))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#FLG02") (unit 1)
         )
@@ -738,7 +738,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR043") (unit 1)
         )
@@ -763,7 +763,7 @@
     )
     (pin "1" (uuid 15b7350e-8ac9-46dd-8b93-cdf84c983883))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR06") (unit 1)
         )
@@ -793,7 +793,7 @@
           (reference "#PWR026") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR044") (unit 1)
         )
@@ -818,7 +818,7 @@
     )
     (pin "1" (uuid eb3507ed-dd5d-4836-b432-98c81b0f0369))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "H2") (unit 1)
         )
@@ -843,7 +843,7 @@
     )
     (pin "1" (uuid 51e6d320-d933-4b94-82f2-b0db7a0bb7fe))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR013") (unit 1)
         )
@@ -868,7 +868,7 @@
     )
     (pin "1" (uuid cc834d44-542a-4b18-afcd-5efb8c1e82bb))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR03") (unit 1)
         )
@@ -893,7 +893,7 @@
     )
     (pin "1" (uuid c3ba11c1-9bdf-49ea-894d-0daeffb1839f))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#FLG03") (unit 1)
         )
@@ -918,7 +918,7 @@
     )
     (pin "1" (uuid 4ec8b1a1-9e31-4804-a670-f2ba9d4b92d6))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR02") (unit 1)
         )
@@ -943,7 +943,7 @@
     )
     (pin "1" (uuid 33594bf8-bfad-4272-a9b1-2b794ad26ccd))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR016") (unit 1)
         )
@@ -960,7 +960,7 @@
     (property "Value" "~" (at 50.165 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "breakboard:bme680" (at 50.165 104.14 0)
+    (property "Footprint" "additional:bme680" (at 50.165 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 50.165 104.14 0)
@@ -974,7 +974,7 @@
     (pin "5" (uuid 123313e9-cc54-4679-892c-84d252e753db))
     (pin "7" (uuid 65753048-f7d6-43d0-a04c-6ef5be9f20bd))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "U3") (unit 1)
         )
@@ -999,7 +999,7 @@
     )
     (pin "1" (uuid 52b04660-ce61-498a-9f9f-84909ee97a07))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR047") (unit 1)
         )
@@ -1039,7 +1039,7 @@
           (reference "C10") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "C5") (unit 1)
         )
@@ -1069,7 +1069,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR025") (unit 1)
         )
@@ -1099,7 +1099,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR04") (unit 1)
         )
@@ -1129,7 +1129,7 @@
           (reference "#PWR026") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR026") (unit 1)
         )
@@ -1169,7 +1169,7 @@
           (reference "C10") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "C6") (unit 1)
         )
@@ -1209,7 +1209,7 @@
     (pin "12" (uuid 9d2d5d5e-f09f-4eab-b294-04ab84cba789))
     (pin "11" (uuid 301ad932-09be-47aa-92b9-41b535cf1064))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "U5") (unit 1)
         )
@@ -1234,7 +1234,7 @@
     )
     (pin "1" (uuid 07f89d5f-64fb-41f3-a3fb-4a562cdd5cca))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR010") (unit 1)
         )
@@ -1259,7 +1259,7 @@
     )
     (pin "1" (uuid a241a7ac-f9ad-4a92-a847-71d64290f4bb))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR012") (unit 1)
         )
@@ -1284,7 +1284,7 @@
     )
     (pin "1" (uuid 5d01c531-fe0e-4a20-891e-ecbbd2f1dc9e))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR015") (unit 1)
         )
@@ -1309,7 +1309,7 @@
     )
     (pin "1" (uuid 79ad7a44-687c-4302-9b25-8cd8cef07945))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "H3") (unit 1)
         )
@@ -1339,7 +1339,7 @@
           (reference "#PWR025") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR045") (unit 1)
         )
@@ -1369,7 +1369,7 @@
           (reference "#PWR026") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR028") (unit 1)
         )
@@ -1394,7 +1394,7 @@
     )
     (pin "1" (uuid 39de2243-97be-4d5a-91c7-766b1434987b))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR014") (unit 1)
         )
@@ -1428,7 +1428,7 @@
           (reference "C23") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "C14") (unit 1)
         )
@@ -1453,7 +1453,7 @@
     )
     (pin "1" (uuid 0520eb3e-17db-449f-97d3-8bef88006e51))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "H4") (unit 1)
         )
@@ -1478,7 +1478,7 @@
     )
     (pin "1" (uuid 4cc92c7d-7384-4618-85a3-25721a1eb1ac))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR01") (unit 1)
         )
@@ -1503,7 +1503,7 @@
     )
     (pin "1" (uuid 3087e547-6c1c-479a-a6cf-d87cab7972a3))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR041") (unit 1)
         )
@@ -1528,7 +1528,7 @@
     )
     (pin "1" (uuid 4a7ee0b1-a02e-4da4-9c38-7f717a9a2ca2))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "#PWR05") (unit 1)
         )
@@ -1556,7 +1556,7 @@
     (pin "3" (uuid f0718974-a647-4d07-8d6c-92a104bb11b8))
     (pin "2" (uuid 8b730716-5a38-47f2-860b-09febbc3f71e))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "J1") (unit 1)
         )
@@ -1588,7 +1588,7 @@
           (reference "SYMB1") (unit 1)
         )
       )
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "SYMB1") (unit 1)
         )
@@ -1619,7 +1619,7 @@
     (pin "2" (uuid 1c19f0cc-3d93-4ee5-a98b-63974f056dd0))
     (pin "6" (uuid 78e82b4f-6a0b-4a9b-a9b1-0ec2415fda79))
     (instances
-      (project "speedomobile-i2cmeasurement"
+      (project "i2c-daughter-board-measurement"
         (path "/e3e71c85-246e-4ad0-9afc-06ca0922ac40"
           (reference "U1") (unit 1)
         )

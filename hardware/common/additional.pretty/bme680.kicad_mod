@@ -98,4 +98,9 @@
       )
     )
   )
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/3660 BME680.step"
+    (offset (xyz -12.7 -9 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

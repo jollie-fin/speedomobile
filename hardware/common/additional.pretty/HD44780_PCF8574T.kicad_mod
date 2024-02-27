@@ -91,4 +91,9 @@
   (pad "4" thru_hole circle (at -39.15 -15.88) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3dbc6042-a60d-4c71-9f79-21c1ba3b9e74))
   (pad "5" thru_hole circle (at -1.5 -21.05) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3fd501f8-d400-4b06-8899-fa08442a5de5))
   (pad "6" thru_hole circle (at -1.5 -18.51) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 8344a5d4-1ec7-4ff1-9a16-e91f4e8307fc))
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/lcd 2004 i2c v1.step"
+    (offset (xyz -13.3 -23.8 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )

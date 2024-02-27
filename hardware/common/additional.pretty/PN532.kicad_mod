@@ -131,4 +131,9 @@
   (pad "20" thru_hole circle (at -10.96 -1.56 180) (size 1 1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 46788fec-9a6a-4a64-a22f-3c4ba4e4483c))
   (pad "21" thru_hole circle (at -10.96 -2.83 180) (size 1 1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 1ee19c44-5576-4c79-849c-67192c561fed))
   (pad "22" thru_hole circle (at -10.96 -4.1 180) (size 1 1) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 945e7fe4-da1b-4571-9fe3-f2ed78d9cab7))
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/PN532_NFC_Assembly.STEP"
+    (offset (xyz -0.2 0.6 2.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

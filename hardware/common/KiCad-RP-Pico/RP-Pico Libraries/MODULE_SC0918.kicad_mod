@@ -103,13 +103,18 @@
   (pad "M2" thru_hole circle (at 5.7 -23.5) (size 3.3 3.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp 9c1a0e97-b25e-472b-ad4f-57260e53b42e))
   (pad "M3" thru_hole circle (at -5.7 23.5) (size 3.3 3.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp fad04d2d-5dda-4ed2-9ab8-82b1baa44147))
   (pad "M4" thru_hole circle (at 5.7 23.5) (size 3.3 3.3) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp e6bf6dfd-c613-49c6-a020-66dc7c910a65))
-  (model "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/RPi Pico W w_headers.step"
+  (model "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/RPi Pico W w_headers.step" hide
     (offset (xyz -10.5 -25.5 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
   (model "/home/elie/dev/kicad/speedomobile/KiCad-RP-Pico/RP-Pico Libraries/RPi Pico W w_headers.step" hide
     (offset (xyz -10.5 -25.5 10.25))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "/home/elie/dev/speedomobile/hardware/common/KiCad-RP-Pico/RP-Pico Libraries/RPi Pico W w_headers.step"
+    (offset (xyz -10.5 -25.5 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

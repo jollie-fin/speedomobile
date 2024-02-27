@@ -110,4 +110,9 @@
   (pad "5" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e9058185-a20b-4f54-ad3a-126d9eef2ee5))
   (pad "6" thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 639b5626-9abe-447a-b632-b8f6b221c832))
   (pad "7" thru_hole circle (at 7.62 0) (size 1.8 1.8) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 19b08b1e-c941-4633-9150-1ebe2b186267))
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/4632 PMSA003I.step"
+    (offset (xyz -17.7 -2.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -106,9 +106,9 @@
   (pad "S2" thru_hole circle (at 7 2.5) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 84861d25-bb31-4f1c-9d0d-268457bda5de))
   (pad "SH" thru_hole oval (at 0 -6.4) (size 4.1 3) (drill oval 3.1 2) (layers "*.Cu" "*.Mask") (tstamp deeb700f-76b4-4975-93e0-8920331d6490))
   (pad "SH" thru_hole oval (at 0 6.4) (size 4.1 3) (drill oval 3.1 2) (layers "*.Cu" "*.Mask") (tstamp f195600b-e0d3-4ca4-8695-0ea573417407))
-  (model "${KICAD7_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Bourns_Vertical_PEC12R-3x17F-Sxxxx.wrl"
-    (offset (xyz 0 0 0))
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/PEC11R-4220F-S0024.stp"
+    (offset (xyz 0 0 5.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 90 -180 90))
   )
 )
