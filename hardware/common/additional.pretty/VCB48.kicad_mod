@@ -29,9 +29,9 @@
   (pad "6" thru_hole circle (at 25.4 0) (size 2.6 2.6) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp db626f39-4fda-490d-8eb3-b12b4f787ff3))
   (pad "7" thru_hole circle (at 25.4 -3.81) (size 2.6 2.6) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 11acb6e6-ca8d-4c77-9065-096018711dfa))
   (pad "8" thru_hole circle (at 25.4 -7.62) (size 3.5 3.5) (drill 2.1) (layers "*.Cu" "*.Mask") (tstamp a71b0772-009b-4e7e-a590-873bec6b786e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.45mm_EP0.64x1.38mm.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 16.5 11.5 10))
-    (rotate (xyz 0 0 0))
+  (model "/home/elie/dev/speedomobile/hardware/common/additional.pretty/VCB48_QBO-200WR3.stp"
+    (offset (xyz 29 18.5 4.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 0))
   )
 )
