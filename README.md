@@ -87,3 +87,22 @@ It aims at providing high quality information about the air around the bike
 ![Main view](./hardware/images%20for%20README/i2c-board-measurement-main.jpg 'power board')
 ![Top view](./hardware/images%20for%20README/i2c-board-measurement-top.png 'power board')
 ![Bottom view](./hardware/images%20for%20README/i2c-board-measurement-bottom.png 'power board')
+
+## Blinkers
+
+### Front blinker
+
+A matrix of addressable LED on a flexible PCB, to be glued behind my wing-mirrors
+
+Top and bottom views are the same but mirrored, so that the same pcb can be used left and right
+
+![Main view](./hardware/images%20for%20README/blinker-main.png 'blinker board')
+
+### Side blinker
+
+This board is designed to be chained to form an arch, that will follow the arch of my mudguards. It's a simple chain of addressable leds.
+
+Features some curvy tracks, for more fun in tracing !
+
+![Main view](./hardware/images%20for%20README/sideblinker-main.png 'side blinker board')
+![Bottom view](./hardware/images%20for%20README/sideblinker-bottom.png 'side blinker board')
